@@ -100,7 +100,9 @@ footer {
     background: #3D0369;
 }
 
-.section-3, 
+.section-3 {
+    background: #08080b;
+}
 .section-5, 
 .footnote {
     background: #0F0632;
