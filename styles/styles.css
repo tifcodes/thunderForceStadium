@@ -197,7 +197,7 @@ aside {
 
 aside i, 
 .section-4-icons i {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin: 10px 0;
 }
 
@@ -223,7 +223,7 @@ h2 {
 .section-1-container,
 .section-2-container,
 .section-3 {
-    padding: 4% 0;
+    padding: 5% 0;
 }
 
 .section-1-container {
@@ -280,6 +280,7 @@ h2 {
     float: left;
     margin: 100px auto;
     padding: 50px;
+    font-size: 3rem;
 }
 
 /* section 5 */
@@ -341,6 +342,11 @@ input {
 
     .subscribe {
         margin: 0;
+    }
+
+    .section-1-container,
+    .section-2-container {
+        padding: 2% 0;
     }
 }
 
@@ -448,4 +454,6 @@ input {
         display: block;
     }
 }
+
+
 
