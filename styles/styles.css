@@ -359,6 +359,10 @@ input {
     .section-2-container {
         padding: 2% 0;
     }
+
+    .section-4-icons li {
+        font-size: 2.8rem;
+    }
 }
 
 @media (max-width: 800px) {
@@ -391,9 +395,13 @@ input {
 
     .section-3-container, 
     .image-container-3,
-    .section-4-icons li,
     .section-5 li {
         padding: 25px;
+    }
+
+    .section-4-icons li {
+        padding: 25px 20px;
+        font-size: 2.3rem;
     }
 
     .section-5 li {
